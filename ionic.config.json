@@ -1,0 +1,7 @@
+{
+  "name": "Juddys-iconic-ionic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
