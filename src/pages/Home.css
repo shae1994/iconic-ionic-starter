@@ -1,0 +1,21 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+
+.nav-item {
+    margin: 0 10px;
+}
+
+/* Experimentation.css */
+.experiment-message {
+    text-align: center;
+    padding: 100px 20px;
+    font-size: 1.5rem;
+    color: #333;
+}
+
